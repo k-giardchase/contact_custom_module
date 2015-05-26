@@ -1,0 +1,4 @@
+name = My Contact Module
+description = Custom Contact Functions
+package = Custom
+core = 7.x
